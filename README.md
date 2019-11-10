@@ -1,4 +1,4 @@
-# JavaExcersises
+# JavaExercises
 
 ## [FizzBuzz](https://github.com/jamesharrison0799/JavaExcersises/blob/master/FizzBuzz/src/fizzBuzz/FizzBuzz.java)
 Based upon Tom Scott's [video](https://www.youtube.com/watch?v=QPZ0pIK_wsc). Plays the childrens game FizzBuzz.
